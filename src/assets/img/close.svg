@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 61" width="60" height="61">
+	<defs>
+		<image width="128" height="128" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAABJlBMVEUAAAD////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////cBqmhAAAAYXRSTlMAAQIDBAUGCAkNDxETFRcYGRsfISUpKissLTAxMjM0NTY3ODxCREVJSkxNUVRcZIWJjpCSlJaYmZucnZ+2t7i5vb6/wMLEyMnNztLV2dve3+Dh4+Tn6Onq7O3u7/Dx8vT1DVyc4QAAAAFiS0dEYbKwTIYAAALXSURBVHja7ZlZV9RAEEYDiCsujDMDwuhoEPcdxH0Fd8UFhIGZqPX//4QPOh6SSdL1VVU/eE5975V7u08n6a5OEo/H4/F4PB6Px+P5DzLRWpidxEr2zSy0J4zwh25uE9Fg+Si/ZOpOn4h6tw5b8E9+oD/5Nsctmfnyt+RjU89vrNMw/S6vpLX5r+R725DPNdjD1xvk+DyDHF9rUOBzDAp8ncEIP2wwwtcYND4TgQYlfLlBKb/eoJQvNajg1xlU8GUGlfxqg0q+xOD4V6rObqes5NR2TcnGNCjwggg0qOUTvRqD+OeJQIMAn+giJLBEoEGQT/cggSehxxVWYs36G+Y5JPA0+LzcHITHT7QKCawQYsDh0yNI4AoBBiw+XYMExt/yDXj89+AOsbnDNeDxBy30UzjX4zy332WsfyIapPjP4PQuaw544z8n+R3y5iDW+C0NpHwrAznfxkDDtzDQ8fUGWr7WQM/XGVjwNQY2fLmBFV9qYMeXGVjyJQa2fNzAmo8a2PMxgxh8xCAOn28Qi58k13kCN2LxeftPfj8xFj+WAZ8fxwDhxzDA+PYGKN/aAOfbGkj4lgYyvp2BlG9lIOfbGGj4FgY6vt5Ay9ca6Pk6Awu+xsCGLzew4ksNmP0/Vi9tpxNr/IOU20+Er6y3uPvfDmsOeuA19tgb/v6bZ/BuHBK4hOz/eQZXIYG70PmDZfAQEniGnX84K/ElJPAYPH8xDLA7o2X0/Bfurd+HBC7A58+gwWXsPVyDz78Bg9fYzWkyvQGfv2sNNhvop7BZbZClcP9gaxb/GVQaZCncwZDwKw2yFO6hyPgVBlkKd3Gk/FKDLIX7SHJ+iUEW7D+NGGj4IwYZo/9VMNDxCwYZq/+WM9DycwYZs/+3x0DPT5Lmp+HH7Cy3ZH4ovd5ODHLk9oCIfj04wS85tvKTiH4sTRl1KCbnF7sHsZIDZxY7+xOPx+PxeDweDye/Aa+TwYHyezH+AAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="ACTIVE TEAM MEMBER">
+		<g id="slide (every team member has separate slide)">
+			<g id="icons (protip: these are from font awesome ;))">
+				<use id="close" href="#img1" transform="matrix(0.703,0,0,0.703,-14,-17)"/>
+			</g>
+		</g>
+	</g>
+</svg>
